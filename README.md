@@ -1,3 +1,4 @@
+
 # LearningNotes
 ---
 ## Android学习知识点杂记 ##
@@ -16,6 +17,7 @@
 - [Glide与Picasso比较](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 - [Retrofit2使用介绍](http://www.jianshu.com/p/308f3c54abdd)
 - [RxJava2.0使用介绍](http://www.apkbus.com/blog-916880-68366.html)
+- [Android注解框架对比](http://blog.csdn.net/p892848153/article/details/50433279)
 ---
 ## Android优秀框架 ##
 - [GitHub常用开源框架](http://www.androidchina.net/7182.html)
