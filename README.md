@@ -12,3 +12,4 @@ Android学习知识点杂记
 - [Gson](http://www.jianshu.com/p/fc5c9cdf3aab)
 - [Java注解及注解处理器](http://blog.csdn.net/justxuemin/article/details/72804134?t=1497016722567)
 - [Android常用加密算法](http://www.androidchina.net/7137.html)
+- [Glide与Picasso比较](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
