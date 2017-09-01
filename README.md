@@ -18,3 +18,7 @@
 - [RxJava2.0使用介绍](http://www.apkbus.com/blog-916880-68366.html)
 ---
 ## Android优秀框架 ##
+- [GitHub常用开源框架](http://www.androidchina.net/7182.html)
+- [几款炫酷开源控件](http://www.androidchina.net/7028.html)
+- [优秀开源项目](http://www.apkbus.com/blog-898535-67969.html)
+- [流行热门框架](http://www.apkbus.com/home.php?mod=space&uid=719059&do=blog&quickforward=1&id=63032)
