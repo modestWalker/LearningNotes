@@ -1,4 +1,3 @@
-
 # LearningNotes
 ---
 ## Android学习知识点杂记 ##
@@ -13,6 +12,7 @@
 - [ListView嵌套布局不全问题](http://blog.csdn.net/hanhailong726188/article/details/46136569)
 - [Gson](http://www.jianshu.com/p/fc5c9cdf3aab)
 - [Java注解及注解处理器](http://blog.csdn.net/justxuemin/article/details/72804134?t=1497016722567)
+- [自定义注解](http://mp.weixin.qq.com/s/NwlIy_knmx4Es7kFnk0gRQ)
 - [Android常用加密算法](http://www.androidchina.net/7137.html)
 - [Glide与Picasso比较](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 - [Retrofit2使用介绍](http://www.jianshu.com/p/308f3c54abdd)
