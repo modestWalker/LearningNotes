@@ -13,3 +13,5 @@ Android学习知识点杂记
 - [Java注解及注解处理器](http://blog.csdn.net/justxuemin/article/details/72804134?t=1497016722567)
 - [Android常用加密算法](http://www.androidchina.net/7137.html)
 - [Glide与Picasso比较](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
+- [Retrofit2使用介绍](http://www.jianshu.com/p/308f3c54abdd)
+- [RxJava2.0使用介绍](http://www.apkbus.com/blog-916880-68366.html)
