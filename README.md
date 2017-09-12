@@ -25,3 +25,8 @@
 - [几款炫酷开源控件](http://www.androidchina.net/7028.html)
 - [优秀开源项目](http://www.apkbus.com/blog-898535-67969.html)
 - [流行热门框架](http://www.apkbus.com/home.php?mod=space&uid=719059&do=blog&quickforward=1&id=63032)
+---
+## 学习路径 ##
+- [Google Android](http://hukai.me/android-training-course-in-chinese/index.html)
+- [Material Design](http://www.apkbus.com/design/index.html)
+- [知识点集](https://github.com/FX-Max/Point-of-Android)
