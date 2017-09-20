@@ -19,6 +19,7 @@
 - [RxJava2.0使用介绍](http://www.apkbus.com/blog-916880-68366.html)
 - [RxJava2.0使用详解](http://www.jianshu.com/u/c50b715ccaeb?utm_campaign=maleskine&utm_content=user&utm_medium=pc_all_hots&utm_source=recommendation)
 - [Android注解框架对比](http://blog.csdn.net/p892848153/article/details/50433279)
+- [Android开发中线程池的使用](http://blog.csdn.net/u012702547/article/details/52259529)
 ---
 ## Android优秀框架 ##
 - [GitHub常用开源框架](http://www.androidchina.net/7182.html)
